@@ -1,4 +1,12 @@
+h1 {
+	text-align: center;
+}
+
+a {
+	color: green;
+	font-size: 20px;
+}
+
 img {
 	max-height: 300px;
 	max-width: 300px;
-}
